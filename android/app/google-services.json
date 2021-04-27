@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875993534417",
+    "project_id": "challenge-flutter",
+    "storage_bucket": "challenge-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875993534417:android:840c6a5e44f893ad37daf0",
+        "android_client_info": {
+          "package_name": "com.dariovarriale.challenge_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875993534417-7l1ni67q51uvus86vmvfm8tk6t8eqaq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkm68gK7leZtmumWiPoJr-kD0lhjGxWyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875993534417-7l1ni67q51uvus86vmvfm8tk6t8eqaq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
