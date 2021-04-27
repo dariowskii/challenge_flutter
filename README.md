@@ -9,5 +9,5 @@ Requisiti per eseguire il progetto:
 
 1. Avviare il simulatore come iOS Simulator (solo su macOS) o crea un Android device.
 2. Aprire la cartella principale del progetto `challenge_flutter` nel terminale.
-3. Digitare il comando `flutter create .` per ricreare i file mancanti.
-4. Digitare `flutter run` (avendo impostata già le variabile di sistema per poter eseguire il comando `flutter`) e scegliere il dispositivo corretto su cui avviare l'applicazione.
+3. Digitare il comando `flutter create .` (avendo impostata già le variabile di sistema per poter eseguire il comando `flutter`) per ricreare i file mancanti.
+4. Digitare `flutter run` e scegliere il dispositivo corretto su cui avviare l'applicazione.
