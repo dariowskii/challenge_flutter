@@ -12,7 +12,7 @@ Requisiti per eseguire il progetto:
 3. Digitare il comando `flutter create .` (avendo impostata già le variabile di sistema per poter eseguire il comando `flutter`) per ricreare i file mancanti.
 4. Digitare `flutter run` e scegliere il dispositivo corretto su cui avviare l'applicazione.
 
-L'aaplicazione funzionia con `Firebase`, dunque per poter eseguire correttamente l'applicazione è necessario creare un progetto nella `Console Firebase` e sostituire i file di configurazione.
+L'applicazione funziona con `Firebase`, dunque per poter eseguire correttamente l'applicazione è necessario creare un progetto nella `Console Firebase` e sostituire i file di configurazione.
 
 Una guida dettagliata per l'implementazione di `Firebase` la puoi trovare [qui](https://firebase.flutter.dev/docs/overview).
 
